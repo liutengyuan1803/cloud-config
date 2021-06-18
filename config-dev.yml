@@ -1,2 +1,4 @@
 config:
-  info: "config info for dev(master),hhaha"
+  info: "config info for dev(dev),hhaha modify version2.2"
+custome:
+   config: "自定义配置"
